@@ -1,0 +1,12 @@
+requests
+boto3
+gym==0.21.0
+cffi 
+mujoco-py==0.5.7 
+numpy
+torch
+IPython
+gym[box2d]
+urllib3==1.26.15
+
+
