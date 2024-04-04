@@ -1,4 +1,4 @@
-Wehost an interactive webpage that receives Lambda-generated actions and then render the game playing in real time
+We host an interactive webpage that receives Lambda-generated actions and then render the game playing in real time
 
 We package our code and dependencies as a Docker container image. Then upload the image to our container registry hosted on Amazon Elastic Container Registry (Amazon ECR). When invoking the function, Lambda deploys the container image to an execution environment.
 
